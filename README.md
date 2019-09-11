@@ -27,3 +27,9 @@ to train model using:
               python main.py -t BILSTM-CNN
               
  
+- Datasets: Chinese NER,Resume NER,conll2003 dataset.
+- Config file contains all the parameters needed for training.
+- the output results will be in the output.txt file.
+- evaluting the performance and testing using evaluate.py.
+
+        
