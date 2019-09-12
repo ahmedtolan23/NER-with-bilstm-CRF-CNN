@@ -26,4 +26,9 @@ to train model using:
   4- Bilstm-CNN:
               python main.py -t BILSTM-CNN
               
- 
+              
+              
+ Datasets: The task is Chinese NER,Resume NER,conll2003 dataset
+ Config file: conatains all parameters of the models.
+ evaluate.py: for evalauting the prformance of each algo.
+  
